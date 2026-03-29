@@ -30,6 +30,12 @@ My goal with this project was not only to complete a tutorial, but to understand
 - Combining gameplay systems into a complete playable level
 - Using **test scenes** to validate that each of the mechanics and game logics works well.
 
+## Repository structure
+
+- `assets/` — art, visuals, and other imported game resources
+- `dialogue/` — dialogue-related resources and conversation content
+- `scenes/` — scripts that support running the main game scenes, organised by feature or function
+- `scripts/` — Global and state machine scripts
 
 ## Why I built this
 
