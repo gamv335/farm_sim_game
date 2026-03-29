@@ -4,7 +4,7 @@
 
 A 2D top-down farming game built in **Godot**.
 
-This project was created by following and implementing concepts from the tutorial [Rapid Vectors — How to Build a Complete 2D Farming Game]([https://www.youtube.com/watch?v=it0lsREGdmc](https://youtu.be/it0lsREGdmc?si=LdrvoQ1ujXcejZif)) by Rapid Vectors. The project covers a range of concepts including tilemap-based world building, reusable components, player state machines, farming interactions, NPC navigation, inventory, day/night cycles, save/load functionality, dialogue, and UI. :contentReference[oaicite:1]{index=1}
+This project was created by following and implementing concepts from the tutorial [Rapid Vectors — How to Build a Complete 2D Farming Game]([https://www.youtube.com/watch?v=it0lsREGdmc](https://youtu.be/it0lsREGdmc?si=LdrvoQ1ujXcejZif)) by Rapid Vectors. The project covers a range of concepts including tilemap-based world building, reusable components, player state machines, farming interactions, NPC navigation, inventory, day/night cycles, save/load functionality, dialogue, and UI.
 
 ## Project overview
 
