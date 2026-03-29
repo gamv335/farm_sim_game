@@ -1,6 +1,6 @@
 # Farming Game in Godot
 
-![Game screenshot](assets/main menu.png)
+![Game screenshot](assets/main-menu.png)
 
 A 2D top-down farming game built in **Godot**.
 
