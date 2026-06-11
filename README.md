@@ -1,4 +1,4 @@
-# Farming Game in Godot
+# Farming Game in Godot - Guided Project
 
 ![Game screenshot](assets/main-menu.png)
 
